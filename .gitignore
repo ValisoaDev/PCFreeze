@@ -1,0 +1,9 @@
+# Données temporaires de simulation locale
+SimulationData/
+dist/SimulationData/
+*.log
+*.bak
+*.user
+*.suo
+bin/
+obj/
